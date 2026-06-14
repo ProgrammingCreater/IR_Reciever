@@ -1,1 +1,0 @@
-This is code for a project that uses an Arduino Uno R3, an IR receiver, and a servo motor. It accepts angle values entered via an IR remote's numeric keypad and moves the servo to each specified angle. Sequences of angles can be recorded, played back, and saved to the board's non-volatile EEPROM memory for persistence across power cycles.
