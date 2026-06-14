@@ -1,3 +1,4 @@
+// When setting up the physical circuits, a breadboard was needed for the connections between the R3 board and the IR sensor to remove noise from surroundings
 #include <IRremote.h>
 #include <Servo.h>
 #include <EEPROM.h>
